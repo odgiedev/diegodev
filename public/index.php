@@ -34,7 +34,7 @@
         </div>
         <div class="row my-3 d-flex align-items-center p-3">
             <div class="col-12 col-md-3 text-white border-end">
-                <img src="images/diego-pfp.jpeg" alt="diego-pfp" class="img-fluid border rounded-3" style="max-height: 200px">
+                <img src="images/diego-pfp.png" alt="diego-pfp" class="img-fluid border rounded-3" style="max-height: 200px">
                 <h3 class="mt-2">Diego Fernandes.</h3>
                 <h6><?= $bio ?></h6>
                 <hr>
