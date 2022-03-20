@@ -34,7 +34,7 @@
             </nav>
         </div>
         <div class="row my-3 d-flex align-items-center p-3">
-            <div class="col-12 col-md-3 text-white border-end">
+            <div class="col-12 col-md-12 col-lg-3 text-white border-end">
                 <img src="images/diego-pfp.png" alt="diego-pfp" class="img-fluid border rounded-3" style="max-height: 200px">
                 <h3 class="mt-2">Diego Fernandes.</h3>
                 <h6><?= $bio ?></h6>
@@ -44,19 +44,19 @@
                 </p>
             </div>
 
-            <div class="offset-1 col-4 col-md-2">
+            <div class="offset-1 col-3 col-md-3 col-lg-2">
                 <a href="https://github.com/odgiedev" target="_blank">
                     <i class="devicon-github-original-wordmark devicon"></i>
                 </a>
             </div>
 
-            <div class="col-4 col-md-2 ms-5">
+            <div class="col-3 col-md-3 col-lg-2 ms-5">
                 <a href="https://linkedin.com/in/dev-diego-fernandes" target="_blank">
                     <i class="devicon-linkedin-plain-wordmark devicon"></i>
                 </a>
             </div>              
 
-            <div class="col-2 mt-3 ms-5 text-center">
+            <div class="col-12 col-md-2 col-lg-2 mt-3 ms-5">
                 <a href="mailto:dev.diegof@gmail.com" target="_blank">
                     <img src="images/icon_email.png" alt="e-mail" style="height: 90px;">
                 </a>
