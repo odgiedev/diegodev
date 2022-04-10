@@ -21,14 +21,14 @@
                 <div class="container-fluid navbar-nav d-flex justify-content-between">
                     <?php if(isset($english)): ?>
                         <li class="nav-item">
-                            <a class="nav-link" href="project.html">PROJECTS</a>
+                            <a class="nav-link" href="project.php">PROJECTS</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.php">PT</a>
                         </li> 
                     <?php else: ?>
                         <li class="nav-item">
-                            <a class="nav-link" href="project.html">PROJETOS</a>
+                            <a class="nav-link" href="project.php">PROJETOS</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.php?lang=english">EN</a>
