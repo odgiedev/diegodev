@@ -1,3 +1,5 @@
+<?php #gambiarra padrao ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
